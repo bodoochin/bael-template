@@ -3,7 +3,7 @@
   "sitedescription": "Хожим хүүгийнхээ өмнө буруудахгүйн тулд",
   "siteicon": "/images/uploads/bodoochin_clear.png",
   "showmenu": true,
-  "emailsignup": false,
+  "emailsignup": true,
   "altlayout": false,
   "menu": [
     {
