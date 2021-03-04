@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import FullGrid from "~/components/FullGrid";
+
 import _chunk from "lodash/chunk";
 
 export default {
