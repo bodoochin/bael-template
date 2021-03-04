@@ -3,7 +3,6 @@
 </template>
 
 <script>
-import BaelGrid from "~/components/BaelGrid";
 import FullGrid from "~/components/FullGrid";
 import _chunk from "lodash/chunk";
 
